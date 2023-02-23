@@ -1,0 +1,10 @@
+{
+    "name": "melkeveien1145.github.io",
+    "version": 1,
+    "scripts": {
+        "start": "http-server -p 9999"
+    },
+    "devDependencies": {
+        "http-server": "^14.1.1"
+    }
+}
