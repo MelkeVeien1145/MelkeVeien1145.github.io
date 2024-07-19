@@ -11,6 +11,7 @@ p {
 }
 
 button {
+    appearance: none;
     color: darkcyan;
     border-color: darkcyan;
     border-radius: 50px;
